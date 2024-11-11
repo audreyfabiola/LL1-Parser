@@ -1,6 +1,8 @@
 ## Task
 Grammar:
+
 S → XX
+
 X → ε | 0X1
 
 (1)	Implement a LL(1) Parser for parsing the Language that is specified by your chosen Grammar. You can use Python or any other programming language.
