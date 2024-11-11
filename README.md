@@ -17,8 +17,8 @@ Visual of The Resulting Parse Tree
 Error is there is any parse error
 
 ## Program Outputs
-Valid Input
+- Valid Input
 ![valid_input](/valid_input.png)
 
-Invalid Input
+- Invalid Input
 ![invalid_input](/invalid_input.png)
