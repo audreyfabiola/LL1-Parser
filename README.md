@@ -18,7 +18,7 @@ Error is there is any parse error
 
 ## Program Outputs
 Valid Input
-![valid_input](/assets/valid_input.png)
+![valid_input](/valid_input.png)
 
 Invalid Input
-![invalid_input](/assets/invalid_input.png)
+![invalid_input](/invalid_input.png)
